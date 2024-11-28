@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: d205013.a.ess.uk.barracudanetworks.com
 mx: d205013.b.ess.uk.barracudanetworks.comm
-max_age: 1209600
+max_age: 86401
